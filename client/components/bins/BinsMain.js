@@ -6,7 +6,7 @@ class BinsMain extends Component {
             <div>
                 BinsMain
             </div>
-        )
+        );
     }
 }
 
